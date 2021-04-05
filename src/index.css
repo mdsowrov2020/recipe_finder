@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.all_paragraph_tag p {
+  font-size: 16px !important;
+  font-weight: 700;
+  color: rgb(243, 143, 153);
+}
+
+.top_options {
+  padding: 10px 10px;
+}
